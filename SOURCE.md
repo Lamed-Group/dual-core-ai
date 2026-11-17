@@ -1,6 +1,10 @@
 # Источники
 
-## Каноническая страница сборки
+## Каноническая страница корпуса
+
+- https://www.lamedgroup.info/proshivka-dvuhjadernyj-ii-polnyj-korpus-modulej-i-protokol-zapuska/
+
+## Исходное описание архитектуры
 
 - https://www.lamedgroup.info/dual-core-ai-logic/
 

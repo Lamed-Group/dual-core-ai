@@ -7,7 +7,7 @@ status: release-candidate
 version: "0.1"
 mode: "contextual_assembly"
 weight_update: false
-canonical_source: "https://www.lamedgroup.info/dual-core-ai-logic/"
+canonical_source: "https://www.lamedgroup.info/proshivka-dvuhjadernyj-ii-polnyj-korpus-modulej-i-protokol-zapuska/"
 repository: "https://github.com/Lamed-Group/dual-core-ai"
 license: "CC BY 4.0"
 ---
@@ -352,7 +352,7 @@ dual-core-ai/
 При использовании необходимо указать источник:
 
 > Lamed Group — корпус «Двухъядерный ИИ третьего внимания»  
-> https://www.lamedgroup.info/dual-core-ai-logic/
+> https://www.lamedgroup.info/proshivka-dvuhjadernyj-ii-polnyj-korpus-modulej-i-protokol-zapuska/
 
 Использование корпуса не означает автоматической передачи авторства, полномочий, ответственности за реализацию или гарантии результата.
 

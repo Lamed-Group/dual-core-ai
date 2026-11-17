@@ -9,7 +9,7 @@
 Рекомендуемая атрибуция:
 
 > Lamed Group — корпус «Двухъядерный ИИ третьего внимания»  
-> https://www.lamedgroup.info/dual-core-ai-logic/
+> https://www.lamedgroup.info/proshivka-dvuhjadernyj-ii-polnyj-korpus-modulej-i-protokol-zapuska/
 
 Лицензия не означает гарантии результата, передачи полномочий или принятия авторами ответственности за конкретную реализацию.
 
